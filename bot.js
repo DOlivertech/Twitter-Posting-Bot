@@ -18,3 +18,4 @@ var writeTweet = function() {
 writeTweet()
 
 setInterval(writeTweet, 30000);
+// multiply the time desired in minutes by 30,000
